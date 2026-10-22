@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 - **Author / Candidate:** BOBBURI PRAVEEN KUMAR
-- **Supervisor / Guide:** Mrs P. Neeraja
+- **Supervisor / Guide:** Dr. P. Neeraja
 - **Domain:** Machine Learning & Predictive Analytics
 
 ---

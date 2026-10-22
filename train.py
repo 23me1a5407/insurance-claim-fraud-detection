@@ -27,7 +27,7 @@ def run_training_pipeline():
     
     print("=" * 60)
     print("INSURANCE CLAIM FRAUD ANOMALY DETECTION PIPELINE")
-    print("Author: Bobburi Praveen Kumar | Guide: Mrs P. Neeraja")
+    print("Author: Bobburi Praveen Kumar | Guide: Dr. P. Neeraja")
     print("=" * 60)
     
     # 1. Dataset Generation

@@ -2,7 +2,7 @@
 
 **Project Title:** An Isolation Forest Anomaly Detector-Based Approach to Insurance Claim Fraud  
 **Student Name:** BOBBURI PRAVEEN KUMAR  
-**Guide / Supervisor:** Mrs P. Neeraja  
+**Guide / Supervisor:** Dr. P. Neeraja  
 **Domain:** Machine Learning & Predictive Analytics  
 **Academic Year:** 2025–2026  
 

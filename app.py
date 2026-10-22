@@ -2,7 +2,7 @@
 Motor Insurance Claim Fraud Detection - Isolation Forest Anomaly Detector
 Investigator Triage Queue Web Application
 Author: BOBBURI PRAVEEN KUMAR
-Guide: Mrs P. Neeraja
+Guide: Dr. P. Neeraja
 Domain: Machine Learning & Predictive Analytics
 """
 
@@ -121,7 +121,7 @@ if "triage_actions" not in st.session_state:
 st.markdown("""
 <div class="main-header">
     <h1>🛡️ Motor Insurance Claim Fraud Triage Queue</h1>
-    <p><b>Isolation Forest Anomaly Detector Pipeline</b> | Candidate: <b>BOBBURI PRAVEEN KUMAR</b> | Supervisor: <b>Mrs P. Neeraja</b></p>
+    <p><b>Isolation Forest Anomaly Detector Pipeline</b> | Candidate: <b>BOBBURI PRAVEEN KUMAR</b> | Supervisor: <b>Dr. P. Neeraja</b></p>
     <p>Domain: Machine Learning & Predictive Analytics | Unsupervised Anomaly Detection & Operational Investigator Queue</p>
 </div>
 """, unsafe_allow_html=True)

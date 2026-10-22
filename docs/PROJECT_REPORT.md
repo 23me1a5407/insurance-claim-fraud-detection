@@ -2,7 +2,7 @@
 # An Isolation Forest Anomaly Detector-Based Approach to Insurance Claim Fraud
 
 **Author:** BOBBURI PRAVEEN KUMAR  
-**Supervisor / Guide:** Mrs P. Neeraja  
+**Supervisor / Guide:** Dr. P. Neeraja  
 **Department:** Computer Science & Engineering / Information Technology  
 **Domain:** Machine Learning & Predictive Analytics  
 **Academic Year:** 2025–2026  
