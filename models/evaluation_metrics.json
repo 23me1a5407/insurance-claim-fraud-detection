@@ -1,0 +1,46 @@
+{
+  "roc_auc": 0.9827,
+  "pr_auc": 0.9295,
+  "confusion_matrix": {
+    "true_negatives": 862,
+    "false_positives": 18,
+    "false_negatives": 15,
+    "true_positives": 105
+  },
+  "accuracy": 0.967,
+  "fraud_precision": 0.8537,
+  "fraud_recall": 0.875,
+  "fraud_f1": 0.8642,
+  "triage_queue_efficiency": {
+    "top_5_percent": {
+      "queue_depth_cases": 50,
+      "fraud_detected": 50,
+      "precision": 1.0,
+      "recall": 0.4167
+    },
+    "top_10_percent": {
+      "queue_depth_cases": 100,
+      "fraud_detected": 93,
+      "precision": 0.93,
+      "recall": 0.775
+    },
+    "top_15_percent": {
+      "queue_depth_cases": 150,
+      "fraud_detected": 111,
+      "precision": 0.74,
+      "recall": 0.925
+    },
+    "top_20_percent": {
+      "queue_depth_cases": 200,
+      "fraud_detected": 116,
+      "precision": 0.58,
+      "recall": 0.9667
+    },
+    "top_25_percent": {
+      "queue_depth_cases": 250,
+      "fraud_detected": 116,
+      "precision": 0.464,
+      "recall": 0.9667
+    }
+  }
+}
