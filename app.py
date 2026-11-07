@@ -1,10 +1,3 @@
-"""
-Motor Insurance Claim Fraud Detection - Isolation Forest Anomaly Detector
-Investigator Triage Queue Web Application
-Author: BOBBURI PRAVEEN KUMAR
-Guide: Dr. P. Neeraja
-Domain: Machine Learning & Predictive Analytics
-"""
 
 import os
 import sys
